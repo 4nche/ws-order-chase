@@ -1,3 +1,5 @@
-const a = 10;
+async function main() {
+  console.log("Hello World");
+}
 
-console.log(a);
+main();
